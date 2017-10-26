@@ -10,8 +10,8 @@ java swing gui program.
 ## You get to know-
 ```
 Basic java gui 
-Use of different tabs like text fiels, button, password field,lable etc.
-To set password and username in java swing gui
+Use of different tabs like text fields, button, password fields, lable etc.
+To set password and username in Java Swing GUI
 
 let your java codes have a better graphical interface!!!
 ```
