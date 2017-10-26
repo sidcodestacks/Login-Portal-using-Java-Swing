@@ -1,6 +1,6 @@
 # Login-Portal-using-Java-Swing
 ```ruby
-Whenever we open a our account on any website we come across a login page
+Whenever we open our account on any website we come across a login page
 having a login portal. 
 ```
 ### Ever imagined how it works!!
